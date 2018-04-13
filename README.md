@@ -1,2 +1,2 @@
-# aquaruim_controller
+# Aquarium Controller
 Aquarium Controller Project
